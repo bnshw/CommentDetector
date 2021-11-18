@@ -6,7 +6,7 @@ This program can be added to an project and detect any comments to exclude any c
 
 <p>Put the path of your project in the "settings.json". <br>
 Next go to the "build.ps1" and change the path in line 3 to your projects path. <br>
-If you don't have a build.ps1 yet create one like the example below: <p>
+If you don't have a build.ps1 yet create one like the example below:
 ```C#
 cd ..\..\CommentDetector
 .\CommentDetector.exe
