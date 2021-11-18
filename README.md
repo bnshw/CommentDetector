@@ -4,9 +4,9 @@ This program can be added to an project and detect any comments to exclude any c
 
 ## Install
 
-<p>Put the path of your project in the "settings.json". <br>
-Next go to the "build.ps1" and change the path in line 3 to your projects path. <br>
-If you don't have a build.ps1 yet create one like the example below: </p>
+<p>1. Put the path of your project in the "settings.json". <br>
+2. Next go to the "build.ps1" and change the path in line 3 to your projects path. <br>
+3. If you don't have a build.ps1 yet create one like the example below: </p>
 
 ```C#
 cd ..\..\CommentDetector
