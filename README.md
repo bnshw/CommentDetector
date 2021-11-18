@@ -1,6 +1,6 @@
 # Comment Detector
 
-This program can be added to an project and detect any comments to exclude any comment out code.
+This program can be added to a project and detect any comments to exclude any comment out code.
 
 ## Install
 
