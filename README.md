@@ -14,4 +14,3 @@ cd ..\..\CommentDetector
 cd ..\{build.ps1 path}
 dotnet publish -o ..\..\Build -c Release -r win-x64 -p:PublishSingleFile=true --self-contained true ..\{project}.csproj
 ```
-Now you can build your project.
